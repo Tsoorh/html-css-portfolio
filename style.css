@@ -1,0 +1,15 @@
+html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.firstPart{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color:cadetblue;
+    color:moccasin;
+}
+#linkedinLogo{
+    width: 20px;
+    
+}
